@@ -1,7 +1,7 @@
 import random
 import time
 print('welcome user to the fun game : save your mom ')
-print('here your play against a very high-end cpu to save your ugly mom ')
+print('here you play against a very high-end cpu to save your ugly mom ')
 print('rules are simple choose rock paper scissors and how get\'s 3 points saves his ugly mom ')
 print('1: rock , 2: paper ,3: scissors')
 xxpc = 0
@@ -45,3 +45,4 @@ if xxpc == 3:
     print('cpu win your mom cooked')
 elif xxusr == 3:
     print('you win cpu\'s mom cooked\n')
+
